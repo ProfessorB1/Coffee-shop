@@ -1,7 +1,4 @@
-#Also have one in C++ to enchance skills
-
-
-print ("Hello, Welcome to the Omar's shop!\n")
+print ("Hello, Welcome to the Fantics shop!\n")
 print ("My name is Aal I will be assistanting you today!!\n")
 
 name = input ("What is your name?\n")
